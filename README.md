@@ -1,7 +1,8 @@
-Requerimentos:
+#Requerimentos:
 Flask
 Flask-SQLAlchemy
 
+#Instalação 
 Baixar e extrair o arquivo no github 
 No diretório do projeto usar o comando: python3 -m venv .venv (Linux) 
 Ativar o ambiente com: . .venv/bin/activate
