@@ -1,4 +1,4 @@
-Projeto final V2 e uma versão mais completa que a versão 1, porém não foi testada com mais rigor portanto pode haver mais bugs no site final.
+Projeto final V2 e uma versão mais completa que a versão 1, a versão 1 foi utilizada durante a filmagem do vídeo no youtube e a versão 2 possui mais atualizações na aplicação.
 
 Requerimentos:
 Flask
