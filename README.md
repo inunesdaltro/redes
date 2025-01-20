@@ -1,3 +1,5 @@
+Projeto final V2 e uma versão mais completa que a versão 1, porém não foi testada com mais rigor portanto pode haver mais bugs no site final.
+
 Requerimentos:
 Flask
 Flask-SQLAlchemy
